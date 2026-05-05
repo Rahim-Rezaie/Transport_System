@@ -271,6 +271,6 @@ Feel free to use it as a reference or learning resource! 🎓
 
 <div align="center">
 
-Made with ☕ Java · 🐬 MySQL · ❤️ and a lot of debugging
+Made with ☕ Java · 🐬 MySQL · ❤️ and a lot of debugging by Rahim Rezaie
 
 </div>
